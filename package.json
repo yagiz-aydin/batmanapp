@@ -1,14 +1,4 @@
 {
-  "name": "react-redux-complete-example",
-  "version": "1.0.0",
-  "description": "A react-redux example project based on the folder structure proposed here: https://github.com/alexnm/re-ducks",
-  "main": "index.js",
-  "repository": {
-    "url": "https://github.com/FortechRomania/react-redux-complete-example",
-    "type": "git"
-  },
-  "author": "alexnm <alex.n.moldovan@gmail.com>",
-  "license": "MIT",
   "scripts": {
     "dev-server": "nodemon runner.js ./src/server",
     "compile": "webpack --progress --colors --watch",
